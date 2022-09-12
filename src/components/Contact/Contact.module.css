@@ -1,0 +1,27 @@
+.item {
+  display: flex;
+  width: 50%;
+
+  margin-top: 10px;
+    justify-content: space-between;
+      align-items: center;
+
+}
+.number {
+  display: inline-block;
+  margin-left: 10px;
+}
+.button {
+  padding: 10px;
+
+  margin-left: 10px;
+  outline: 1px solid black;
+  border-radius: 5px;
+  border: none;
+    cursor: pointer;
+}
+.button:hover {
+  background-color: #1976d2;
+  color: white;
+  outline: none;
+}

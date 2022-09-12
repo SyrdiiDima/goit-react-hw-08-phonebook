@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  width: 100%;
+  /* background-color: aqua; */
+}
+
+.wrapperList {
+  overflow-y: auto;
+  /* margin-left: 20px; */
+}
+.title {
+  padding: 5px;
+}

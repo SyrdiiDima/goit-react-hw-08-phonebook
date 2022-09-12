@@ -1,0 +1,55 @@
+.appBar {
+  display: flex;
+
+  padding: 20px;
+  justify-content: space-between;
+  font-size: 18px;
+
+}
+.title{
+    color: #1976d2;
+}
+
+.linkBtn {
+  display: flex;
+}
+.navigationBox {
+  align-items: center;
+  display: flex;
+  
+}
+
+.logoutBtn {
+  padding: 5px 20px;
+font-size: 16px;
+background-color: #0080ff;
+  color: white;
+
+  margin-left: 20px;
+  cursor: pointer;
+  border-radius: 5px;
+
+  outline: 1px solid black;
+}
+
+
+
+.logoutBtn:hover{
+background-color: #1976d2;
+
+  color: white;
+}
+
+.link {
+  display: inline-block;
+  text-decoration: none;
+  padding: 12px;
+  font-weight: 500;
+  color: #2a363b;
+  font-size: 18px;
+}
+
+.activeLink {
+  /* composes: link; */
+  color: #1976d2;
+}
