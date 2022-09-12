@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[206],{1206:function(e,t,r){r.r(t);var o=r(3504),a=(r(2791),r(3329));t.default=function(){return(0,a.jsx)(a.Fragment,{children:(0,a.jsxs)("p",{className:"homeTitle",children:["To start working with the contact book, please"," ",(0,a.jsx)(o.OL,{to:"/register",children:"REGISTER"})," or if you have an account -"," ",(0,a.jsx)(o.OL,{to:"/login",children:"LOGIN"})]})})}}}]);
+//# sourceMappingURL=206.a237bba0.chunk.js.map
